@@ -7,4 +7,4 @@
 * 分省居民消费水平
 
 ### 数据来源
-* [国家统计局](http://data.stats.gov.cn/index.htm）
+* [国家统计局](http://data.stats.gov.cn/index.htm)
